@@ -1,0 +1,50 @@
+.palabras {
+    color: white;
+}
+
+
+img {
+    width: 40%;
+    align-items: center;
+}
+
+
+.imagen_escuela{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Escudo {
+   width: 300px;
+
+}
+.Escudo {
+    width: 150px;
+    
+}
+.encabezado{
+    margin-top: 35px;
+    font-size: 25px;
+}
+.alumnos,
+.docentes {
+    font-size: 25px;
+    font-family: Fira Sans ;
+}
+
+li {
+    list-style: none;
+}
+
+.cabecera{
+    border-bottom: 8px solid #23a9fc;
+border-radius: 16px;
+}
+
+
+.titulo1,
+.titulo2 {
+    
+    line-height: 15px;
+}
